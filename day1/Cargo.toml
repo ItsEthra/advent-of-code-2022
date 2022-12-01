@@ -1,0 +1,10 @@
+[package]
+name = "day1"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["ItsEthra"]
+repository = "https://github.com/ItsEthra/advent-of-code-2022"
+
+[dependencies]
+ureq.workspace = true
