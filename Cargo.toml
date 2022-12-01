@@ -1,0 +1,8 @@
+[package]
+name = "aoc-2022"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["ItsEthra"]
+repository = "https://github.com/ItsEthra/advent-of-code-2022"
+
